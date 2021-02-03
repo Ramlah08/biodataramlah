@@ -1,6 +1,12 @@
 <html>
 <head><font color="WHITE">
 <h1>C L O U D - C O M P U T I N G</h1>
+	
+<ul>
+	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/file1.html">Riwayat Hidup Orang Tua</a></li>
+	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/menu%20RAMLAH%20C.HTML">Riwayat Hidup Saudari</a></li>
+	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/FILE33.HTML">Riwayat Pendidikan</a></li>
+</ul>
 </head>
 <form action="#" style="width:700px class="posisi";>
 	<fieldset class="h"/>
@@ -38,11 +44,6 @@
 <td><i><b> :C </i></b></Td>
 </tr>
 <p>
-	<tr>
-<td><b><i>SEMESTER  </i></b></Td>
-<td><i><b> :7 </i></b></Td>
-</tr>
-<p>
 <tr>
 <td><b><i>JENIS KELAMIN  </i></b></Td>
 <td><b><i> : Perempuan </i></b></Td>
@@ -67,19 +68,6 @@
 <td><b><i>ALAMAT DOMINSILI di PAREPARE</i></b></Td>
 <td><b><i>: Jl.Petta Cangge Bilalang, PARE-PARE </i></b></Td>
 </tr>
-<p>
-<tr>
-<td><b><i>SDN 	</i></b></Td>
-<td><b><i>: 166 Saptamarga, Kec.Sukamaju, Kab.Luwu Utara </i></b></Td>
-</tr>
-<p>
-<tr>
-<td><b><i>MTS  </i></b></Td>
-<td><b><i>: AL-Falah Lemahabang, Kec.Bone-Bone, Kab.Luwu Utara </i></b></Td></tr>
-<p>
-<tr>
-<td><b><i>MAS 	 </i></b></Td>
-<td><b><i>: AL-Falah Lemahabang, Kec.Bone-Bone, Kab.Luwu Utara </i></b></Td></tr>
 <p>
 <tr>
 <td><b><i>Jumlah Saudari	 </i></b></Td>
