@@ -1,12 +1,7 @@
 <html>
 <head><font color="WHITE">
 <h1>C L O U D - C O M P U T I N G</h1>
-	
-<ul>
-	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/file1.html">Riwayat Hidup Orang Tua</a></li>
-	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/menu%20RAMLAH%20C.HTML">Riwayat Hidup Saudari</a></li>
-	<li><a href="file:///D:/TUGAS%2003%20(Pemrograman%20WEB)/FILE33.HTML">Riwayat Pendidikan</a></li>
-</ul>
+
 </head>
 <form action="#" style="width:700px class="posisi";>
 	<fieldset class="h"/>
